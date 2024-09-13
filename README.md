@@ -3,7 +3,7 @@
 
 <h2>To view the video, Click on the image below</h2>
 <p><a href="http://www.youtube.com/watch?v=oHi_4CCdjN4"><img alt="Linguashala
-" src="http://img.youtube.com/vi/oHi_4CCdjN4/0.jpg" /></a></p>
+" src="http://img.youtube.com/vi/oHi_4CCdjN4/maxresdefault.jpg" /></a></p>
 
 ## Prerequisites
 
