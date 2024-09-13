@@ -1,0 +1,10 @@
+requests==2.31.0
+torch==2.0.1
+streamlit==1.25.0
+google-generativeai==0.1.0
+pydub==0.25.1
+gtts==2.3.1
+moviepy==1.0.3
+mutagen==1.46.0
+Pillow==9.5.0
+vertex-ai==0.14.1
