@@ -50,5 +50,5 @@ These requirements are listed in the `requirements.txt` file.
 To run the Streamlit application, use the following command:
 
 ```
-streamlit run linguashala-streamlit-app.py
+streamlit run linguashala-nim-app.py
 ```
